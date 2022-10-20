@@ -47,7 +47,7 @@ Please review [our security policy](../../security/policy) on how to report secu
 
 ## Credits
 
-- [Michael Ochara](https://github.com/michael_ochara)
+- [Michael Ochara](https://github.com/michaelteddy009)
 - [All Contributors](../../contributors)
 
 ## License
